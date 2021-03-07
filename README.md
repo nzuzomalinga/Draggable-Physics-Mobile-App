@@ -1,5 +1,5 @@
 # Draggable Physics (Cross Platform Mobile App)
->| The following program can be used on both android and aple devices once built.
+>| The following program can be used on both android and apple devices once built.
 >| The program simulates a 2D dragabble object which is contraint by newtonian physics on a euclidian plane.
 >| This project is open source, please feel free to mess around with it.
 
